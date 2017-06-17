@@ -12,4 +12,5 @@ def linear_search(lst, item):
             i += 1
     return found, i        
 
-print linear_search([11,23,58,31,56,77,43,12,65,19],19)             
+print linear_search([11,23,58,31,56,77,43,12,65,19],19)      
+print "Hello what is going on here ?"
